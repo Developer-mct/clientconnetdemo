@@ -1,0 +1,103 @@
+.templateHeader {
+    /* background-color: #eeeeee;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 0;
+    border-bottom: 0;
+    padding-top: 12px;
+    padding-bottom: 12px; */
+    background-color: #eeeeee;
+    padding-top: 10px;
+   
+  }
+
+
+
+
+  .glyphicon {
+    font-size: 50px;
+    padding: 8px;
+    color: #3e5b77;
+   }
+   
+  
+  .legalassistance {
+    background-color:#eeeeee;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 650px;
+    margin: auto;
+  }
+  .anchorbutton {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    line-height: 100%;
+    text-align: center;
+    text-decoration: none;
+    background-color: #C69F6F;
+    text-align: center;
+    font-family: "Roboto";
+    border-radius: 10px;
+    color: #FFFFFF;
+  }
+  
+  /* .headinginput:{
+    height: 80px;
+  } */
+  /* input{
+    color: '#3e5b77';
+    font-size: 18px;
+    border: none;
+    padding-left: '15px'
+  } */
+  
+  
+  /* .templateHeader {
+      background-color: #eeeeee;
+      background-image: none;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      border-top: 0;
+      border-bottom: 0;
+      padding-top: 12px;
+      padding-bottom: 12px;
+  }
+  
+  .legalassistance {
+    background-color:#eeeeee;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 650px;
+   margin: auto;
+  }
+  .anchorbutton {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    line-height: 100%;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ff751a;
+    text-align: center;
+    border-radius: 10px;
+    color: #FFFFFF;
+  }
+  
+   */
+  .templateList{
+    display:flex;
+    border: 1px solid #919191;
+    padding-left:10px;
+    padding-top:10px;
+    margin-top:10px;
+    background-color: #FFFFFF;
+  }
+  .templateListClick{
+    display:flex;
+    border: 1px solid red;
+    padding-left:10px;
+    padding-top:10px;
+    margin-top:10px;
+  }

@@ -1,0 +1,104 @@
+.chargeTile {
+  word-break: word-break !important;
+  padding-right: 15%;
+}
+
+.tileicon {
+  font-size: 60px !important;
+  color: white;
+  width: 60px;
+}
+
+@media(max-width:1200px) {
+  .tileicon {
+    font-size: 30px !important;
+    color: white;
+    width: 30px;
+  }
+
+  .main-container {
+    display: flex;
+  }
+
+  .pos {
+    position: relative;
+    left: 1rem;
+    bottom: 20px;
+    color: whitesmoke;
+  }
+
+  .pos2 {
+    left: 1rem;
+    bottom: 20px;
+    color: whitesmoke;
+  }
+
+  .pos3 {
+    position: relative;
+    left: 1rem;
+    bottom: 20px;
+    color: whitesmoke;
+  }
+
+}
+
+.l-container {
+  margin-right: 25px;
+  height: 120px;
+  padding-top: 7px;
+}
+
+.MuiTableCell-body {
+  font-weight: 100;
+}
+
+.extra-con {
+  padding-top: 10px;
+}
+
+.lastContainer {
+  padding-top: 10px;
+  height: 120px;
+}
+
+.png {
+  filter: brightness(0) invert(1);
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+
+.title-container {
+  padding: 0;
+}
+
+.pos {
+  position: relative;
+  left: 3rem;
+  bottom: 63px;
+  color: whitesmoke;
+}
+
+.pos2 {
+  position: relative;
+  left: 5rem;
+  bottom: 78px;
+  color: whitesmoke;
+}
+
+.pos3 {
+  position: relative;
+  left: 3.5rem;
+  bottom: 63px;
+  color: whitesmoke;
+}
+
+.editFonts {
+  font-family: 'Poppins', sans-serif;
+  line-height: 4;
+}
+
+.headColor {
+  background-color: #3E5B77;
+
+}
